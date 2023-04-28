@@ -1,16 +1,7 @@
+
+![Alt text](https://as1.ftcdn.net/v2/jpg/01/90/10/24/1000_F_190102479_bBxYdMIr5PAeTiI6u5rqYpp4XOVCdSc5.jpg)
+
 # sqlalchemy-challenge
-
-## Before You Begin
-
-* Create a new repository for this project called sqlalchemy-challenge. Do not add this assignment to an existing repository.
-
-* Clone the new repository to your computer.
-
-* Inside your local Git repository, create a directory for this Challenge. Use a folder name that corresponds to the Challenge, such as SurfsUp.
-
-* Add your Jupyter notebook and app.py to this folder. They’ll contain the main scripts to run for analysis. Also add the Resources folder, which contains the data files you will be using for this challenge.
-
-* Push the changes to GitHub or GitLab.
 
 ## Instructions
 
@@ -104,9 +95,3 @@ Now that you’ve completed your initial analysis, you’ll design a Flask API b
     * For a specified start, calculate TMIN, TAVG, and TMAX for all the dates greater than or equal to the start date.
 
     * For a specified start date and end date, calculate TMIN, TAVG, and TMAX for the dates from the start date to the end date, inclusive.
-
-#### Hints
-
-    * Join the station and measurement tables for some of the queries.
-
-    * Use the Flask jsonify function to convert your API data to a valid JSON response object.
